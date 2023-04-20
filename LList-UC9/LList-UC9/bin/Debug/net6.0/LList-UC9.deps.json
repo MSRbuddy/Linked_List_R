@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LList-UC9/1.0.0": {
+        "runtime": {
+          "LList-UC9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LList-UC9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
