@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\bin\Debug\net6.0\LList-UC6.exe
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\bin\Debug\net6.0\LList-UC6.deps.json
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\bin\Debug\net6.0\LList-UC6.runtimeconfig.json
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\bin\Debug\net6.0\LList-UC6.dll
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\bin\Debug\net6.0\LList-UC6.pdb
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\obj\Debug\net6.0\LList-UC6.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\obj\Debug\net6.0\LList-UC6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\obj\Debug\net6.0\LList-UC6.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\obj\Debug\net6.0\LList-UC6.AssemblyInfo.cs
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\obj\Debug\net6.0\LList-UC6.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\obj\Debug\net6.0\LList-UC6.dll
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\obj\Debug\net6.0\refint\LList-UC6.dll
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\obj\Debug\net6.0\LList-UC6.pdb
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\obj\Debug\net6.0\LList-UC6.genruntimeconfig.cache
+C:\Users\USER\source\BL\LinkedList\LList-UC6\LList-UC6\obj\Debug\net6.0\ref\LList-UC6.dll
