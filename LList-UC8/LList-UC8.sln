@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LList-UC8", "LList-UC8\LList-UC8.csproj", "{AAB0A48E-61F4-4062-B434-BEB1A3619BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListTestCases", "LimkedListTestCases\LinkedListTestCases.csproj", "{A02CFBAF-A398-4D0F-8355-CB16F0642EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB0A48E-61F4-4062-B434-BEB1A3619BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB0A48E-61F4-4062-B434-BEB1A3619BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB0A48E-61F4-4062-B434-BEB1A3619BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB0A48E-61F4-4062-B434-BEB1A3619BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02CFBAF-A398-4D0F-8355-CB16F0642EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02CFBAF-A398-4D0F-8355-CB16F0642EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02CFBAF-A398-4D0F-8355-CB16F0642EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02CFBAF-A398-4D0F-8355-CB16F0642EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C85E3575-2BB2-4455-8135-C0FAF0504562}
+	EndGlobalSection
+EndGlobal
